@@ -1,0 +1,7 @@
+requests
+pandas
+boto3
+openai
+python-telegram-bot
+instaloader
+pydantic>=2.0
